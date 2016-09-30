@@ -1,1 +1,0 @@
-# minimcu.github.io
